@@ -3,9 +3,9 @@
 ### Оглавление 
 [1. Описание проекта](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Описание-проекта) 
 
-[2. Исследование данных, анализ признаков](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Исследование-данных--анализ-признаков) 
+[2. Исследование данных, анализ признаков](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Исследование-данных-анализ-признаков) 
 
-[3. Удаление дубликатов, заполнение пропусков, обработка текста](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Удаление-дубликатов--заполнение-пропусков--обработка-текста) 
+[3. Удаление дубликатов, заполнение пропусков, обработка текста](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Удаление-дубликатов-заполнение-пропусков-обработка-текста) 
 
 [4. Создание новых признаков](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Создание-новых-признаков) 
 
