@@ -3,9 +3,9 @@
 ### Оглавление 
 [1. Описание проекта](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Описание-проекта) 
 
-[2. Исследование данных, анализ признаков](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Исследование-данных,-анализ-признаков) 
+[2. Исследование данных, анализ признаков](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Исследование&nbsp;данных,&nbsp;анализ&nbsp;признаков) 
 
-[3. Удаление дубликатов, заполнение пропусков, обработка текста](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Удаление-дубликатов,заполнение-пропусков,-обработка-текста) 
+[3. Удаление дубликатов, заполнение пропусков, обработка текста](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Удаление&nbsp;дубликатов,&nbsp;заполнение&nbsp;пропусков,&nbsp;обработка-текста) 
 
 [4. Создание новых признаков](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Создание-новых-признаков) 
 
@@ -128,7 +128,7 @@ ____
 ____
 ### Обучение модели
 
-Точность обучения модели  - 12.187 %. Исходный результат удалось улучшить на 1.951 %. 
+Точность обучения модели (MAPE) - 12.187 %. Исходный результат удалось улучшить на 1.951 %. 
 Аккаунт на [kaggle](https://www.kaggle.com/abalakinigor), где можно посмотреть результат соревнования. 
 
 :arrow_up: [к оглавлению](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Оглавление)
