@@ -1,4 +1,4 @@
-# PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle
+# PROJECT-3. EDA + Feature Engineering.
 
 ### Оглавление 
 [1. Описание проекта](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Описание-проекта) 
